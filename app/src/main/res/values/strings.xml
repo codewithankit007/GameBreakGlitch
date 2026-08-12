@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Game Break Glitch</string>
+    <string name="accessibility_description">Monitors selected game applications to activate parental safety display glitch simulations.</string>
+</resources>
